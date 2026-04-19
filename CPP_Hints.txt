@@ -1,0 +1,19 @@
+Consigli per la presentazione
+Struttura della demo (30-45 min)
+
+Introduzione (5 min) — "Cosa fa il computer senza istruzioni? Niente!" — mostra un programma vuoto vs uno con output
+Live coding (15 min) — scrivi il codice in diretta, spiegando ogni riga
+Modifica dal vivo (10 min) — fai modificare ai ragazzi qualcosa (il numero massimo, il messaggio, le stelle)
+Sfida (10 min) — proponi una piccola variante da risolvere insieme
+
+Strumenti consigliati
+
+Online: onlinegdb.com o replit.com — zero installazione, funziona da browser
+Offline: VS Code + MinGW (se hai tempo per configurarlo prima)
+
+Messaggi chiave da trasmettere
+
+Il codice è come una ricetta: il computer segue le istruzioni passo per passo
+Gli errori non sono fallimenti, sono messaggi del computer
+Anche i programmatori professionisti usano Google e fanno copia-incolla 😄
+
