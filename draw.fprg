@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="draw"/>
+        <attribute name="authors" value="sandr"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-06 10:47:26 "/>
+        <attribute name="created" value="c2FuZHI7SE9NRTsyMDI0LTEwLTA2OyIxMDozNzoyMiAiOzIwMTg="/>
+        <attribute name="edited" value="c2FuZHI7SE9NRTsyMDI0LTEwLTA2OyIxMDo0NzoyNiAiOzE7MjEzMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <declare name="j" type="Integer" array="False" size=""/>
+            <clear/>
+            <pen color="red"/>
+            <turn expression="90" rotate="right"/>
+            <for variable="j" start="1" end="10" direction="inc" step="1">
+                <turn expression="10" rotate="right"/>
+                <for variable="i" start="1" end="4" direction="inc" step="1">
+                    <forward expression="10" pen="down"/>
+                    <turn expression="90" rotate="right"/>
+                </for>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
